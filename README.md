@@ -32,3 +32,8 @@ Thanks for using my app. If you've encountered a bug. We're here to help – but
 - Click the green **"New issue"** button.
 - Choose **Bug Report** template and fill in the following details
 
+# Legal Disclaimer
+
+- Stremize is a media player only. It does not **host**, **store**, **provide**, or **distribute** any media content of any kind.
+
+- Stremize is **not an IPTV provider**, does not sell or include any movies, shows, or streaming channels. The app simply plays media from **external sources added and managed solely by the user**.
